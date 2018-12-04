@@ -2,7 +2,7 @@
 ## Developer: Daniel Pillay
 ---
 
-### Deployed Site: [Heroku Link:](https://www.google.com)
+### Deployed Site: [Heroku Link:](https://hh-color-swatch-app.herokuapp.com/)
 ### Description: 
 An application that allows users to view color swatches that display their hex codes. 
 
