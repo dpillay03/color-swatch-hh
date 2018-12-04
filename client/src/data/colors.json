@@ -1,0 +1,505 @@
+[
+    {
+        "id": 1,
+        "hex": "#EFDECD",
+        "type": "brown"
+    },
+    {
+        "id": 2,
+        "hex": "#CD9575",
+        "type": "brown"
+    },
+    {
+        "id": 3,
+        "hex": "#FDD9B5",
+        "type": "brown"
+    },
+    {
+        "id": 4,
+        "hex": "#78DBE2",
+        "type": "blue"
+    },
+    {
+        "id": 5,
+        "hex": "#87A96B",
+        "type": "green"
+    },
+    {
+        "id": 6,
+        "hex": "#FFA474",
+        "type": "orange"
+    },
+    {
+        "id": 7,
+        "hex": "#FAE7B5",
+        "type": "yellow"
+    },
+    {
+        "id": 8,
+        "hex": "#9F8170",
+        "type": "brown"
+    },
+    {
+        "id": 9,
+        "hex": "#FD7C6E",
+        "type": "red"
+    },
+    {
+        "id": 10,
+        "hex": "#000000",
+        "type": "black"
+    },
+    {
+        "id": 11,
+        "hex": "#ACE5EE",
+        "type": "blue"
+    },
+    {
+        "id": 12,
+        "hex": "#1F75FE",
+        "type": "blue"
+    },
+    {
+        "id": 13,
+        "hex": "#A2A2D0",
+        "type": "purple"
+    },
+    {
+        "id": 14,
+        "hex": "#6699CC",
+        "type": "blue"
+    },
+    {
+        "id": 15,
+        "hex": "#0D98BA",
+        "type": "blue"
+    },
+    {
+        "id": 16,
+        "hex": "#7366BD",
+        "type": "purple"
+    },
+    {
+        "id": 17,
+        "hex": "#DE5D83",
+        "type": "red"
+    },
+    {
+        "id": 18,
+        "hex": "#CB4154",
+        "type": "red"
+    },
+    {
+        "id": 19,
+        "hex": "#B4674D",
+        "type": "brown"
+    },
+    {
+        "id": 20,
+        "hex": "#FF7F49",
+        "type": "orange"
+    },
+    {
+        "id": 21,
+        "hex": "#EA7E5D",
+        "type": "orange"
+    },
+    {
+        "id": 22,
+        "hex": "#B0B7C6",
+        "type": "gray"
+    },
+    {
+        "id": 23,
+        "hex": "#FFFF99",
+        "type": "yellow"
+    },
+    {
+        "id": 24,
+        "hex": "#1CD3A2",
+        "type": "green"
+    },
+    {
+        "id": 25,
+        "hex": "#FFAACC",
+        "type": "pink"
+    },
+    {
+        "id": 26,
+        "hex": "#DD4492",
+        "type": "pink"
+    },
+    {
+        "id": 27,
+        "hex": "#1DACD6",
+        "type": "blue"
+    },
+    {
+        "id": 28,
+        "hex": "#BC5D58",
+        "type": "brown"
+    },
+    {
+        "id": 29,
+        "hex": "#DD9475",
+        "type": "brown"
+    },
+    {
+        "id": 30,
+        "hex": "#9ACEEB",
+        "type": "blue"
+    },
+    {
+        "id": 31,
+        "hex": "#FFBCD9",
+        "type": "pink"
+    },
+    {
+        "id": 32,
+        "hex": "#FDDB6D",
+        "type": "yellow"
+    },
+    {
+        "id": 33,
+        "hex": "#2B6CC4",
+        "type": "blue"
+
+    },
+    {
+        "id": 34,
+        "hex": "#EFCDB8",
+        "type": "brown"
+    },
+    {
+        "id": 35,
+        "hex": "#6E5160",
+        "type": "purple"
+
+    },
+    {
+        "id": 36,
+        "hex": "#CEFF1D",
+        "type": "yellow"
+    },
+    {
+        "id": 37,
+        "hex": "#71BC78",
+        "type": "green"
+    },
+    {
+        "id": 38,
+        "hex": "#6DAE81",
+        "type": "green"
+    },
+    {
+        "id": 39,
+        "hex": "#C364C5",
+        "type": "purple"
+    },
+    {
+        "id": 40,
+        "hex": "#CC6666",
+        "type": "red"
+
+    },
+    {
+        "id": 41,
+        "hex": "#E7C697",
+        "type": "brown"
+    },
+    {
+        "id": 42,
+        "hex": "#FCD975",
+        "type": "yellow"
+    },
+    {
+        "id": 43,
+        "hex": "#A8E4A0",
+        "type": "green"
+    },
+    {
+        "id": 44,
+        "hex": "#95918C",
+        "type": "gray"
+    },
+    {
+        "id": 45,
+        "hex": "#1CAC78",
+        "type": "green"
+    },
+    {
+        "id": 46,
+        "hex": "#1164B4",
+        "type": "blue"
+    },
+    {
+        "id": 47,
+        "hex": "#F0E891",
+        "type": "yellow"
+    },
+    {
+        "id": 48,
+        "hex": "#FF1DCE",
+        "type": "pink"
+    },
+    {
+        "id": 49,
+        "hex": "#B2EC5D",
+        "type": "green"
+    },
+    {
+        "id": 50,
+        "hex": "#5D76CB",
+        "type": "blue"
+    },
+    {
+        "id": 51,
+        "hex": "#CA3767",
+        "type": "red"
+    },
+    {
+        "id": 52,
+        "hex": "#3BB08F",
+        "type": "green"
+    },
+    {
+        "id": 53,
+        "hex": "#FEFE22",
+        "type": "yellow"
+    },
+    {
+        "id": 54,
+        "hex": "#FCB4D5",
+        "type": "pink"
+    },
+    {
+        "id": 55,
+        "hex": "#FFF44F",
+        "type": "yellow"
+    },
+    {
+        "id": 56,
+        "hex": "#FFBD88",
+        "type": "yellow"
+    },
+    {
+        "id": 57,
+        "hex": "#F664AF",
+        "type": "yellow"
+    },
+    {
+        "id": 58,
+        "hex": "#AAF0D1",
+        "type": "blue"
+    },
+    {
+        "id": 59,
+        "hex": "#CD4A4C",
+        "type": "red"
+    },
+    {
+        "id": 60,
+        "hex": "#EDD19C",
+        "type": "brown"
+    },
+    {
+        "id": 61,
+        "hex": "#979AAA",
+        "type": "gray"
+    },
+    {
+        "id": 62,
+        "hex": "#FF8243",
+        "type": "orange"
+    },
+    {
+        "id": 63,
+        "hex": "#C8385A",
+        "type": "red"
+    },
+    {
+        "id": 64,
+        "hex": "#EF98AA",
+        "type": "pink"
+    },
+    {
+        "id": 65,
+        "hex": "#FDBCB4",
+        "type": "pink"
+    },
+    {
+        "id": 66,
+        "hex": "#1A4876",
+        "type": "blue"
+    },
+    {
+        "id": 67,
+        "hex": "#30BA8F",
+        "type": "green"
+    },
+    {
+        "id": 68,
+        "hex": "#C54B8C",
+        "type": "pink"
+    },
+    {
+        "id": 69,
+        "hex": "#1974D2",
+        "type": "blue"
+    },
+    {
+        "id": 70,
+        "hex": "#FFA343",
+        "type": "orange"
+    },
+    {
+        "id": 71,
+        "hex": "#BAB86C",
+        "type": "green"
+    },
+    {
+        "id": 72,
+        "hex": "#FF7538",
+        "type": "orange"
+    },
+    {
+        "id": 73,
+        "hex": "#FF2B2B",
+        "type": "red"
+    },
+    {
+        "id": 74,
+        "hex": "#F8D568",
+        "type": "yellow"
+    },
+    {
+        "id": 75,
+        "hex": "#E6A8D7",
+        "type": "purple"
+    },
+    {
+        "id": 76,
+        "hex": "#414A4C",
+        "type": "gray"
+    },
+    {
+        "id": 77,
+        "hex": "#FF6E4A",
+        "type": "orange"
+    },
+    {
+        "id": 78,
+        "hex": "#1CA9C9",
+        "type": "blue"
+    },
+    {
+        "id": 79,
+        "hex": "#FFCFAB",
+        "type": "yellow"
+    },
+    {
+        "id": 80,
+        "hex": "#C5D0E6",
+        "type": "blue"
+    },
+    {
+        "id": 81,
+        "hex": "#FDDDE6",
+        "type": "pink"
+    },
+    {
+        "id": 82,
+        "hex": "#158078",
+        "type": "green"
+    },
+    {
+        "id": 83,
+        "hex": "#FC74FD",
+        "type": "purple"
+    },
+    {
+        "id": 84,
+        "hex": "#F78FA7",
+        "type": "pink"
+    },
+    {
+        "id": 85,
+        "hex": "#8E4585",
+        "type": "purple"
+    },
+    {
+        "id": 86,
+        "hex": "#7442C8",
+        "type": "purple"
+    },
+    {
+        "id": 87,
+        "hex": "#9D81BA",
+        "type": "purple"
+    },
+    {
+        "id": 88,
+        "hex": "#FE4EDA",
+        "type": "pink"
+    },
+    {
+        "id": 89,
+        "hex": "#FF496C",
+        "type": "purple"
+    },
+    {
+        "id": 90,
+        "hex": "#D68A59",
+        "type": "brown"
+    },
+    {
+        "id": 91,
+        "hex": "#714B23",
+        "type": "brown"
+    },
+    {
+        "id": 92,
+        "hex": "#FF48D0",
+        "type": "pink"
+    },
+    {
+        "id": 93,
+        "hex": "#E3256B",
+        "type": "pink"
+    },
+    {
+        "id": 94,
+        "hex": "#EE204D",
+        "type": "red"
+    },
+    {
+        "id": 95,
+        "hex": "#FF5349",
+        "type": "red"
+    },
+    {
+        "id": 96,
+        "hex": "#C0448F",
+        "type": "purple"
+    },
+    {
+        "id": 97,
+        "hex": "#1FCECB",
+        "type": "blue"
+    },
+    {
+        "id": 98,
+        "hex": "#7851A9",
+        "type": "purple"
+    },
+    {
+        "id": 99,
+        "hex": "#FF9BAA",
+        "type": "pink"
+    },
+    {
+        "id": 100,
+        "hex": "#FC2847",
+        "type": "red"
+    }
+]
